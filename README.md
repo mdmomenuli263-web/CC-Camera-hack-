@@ -1,2 +1,2 @@
 # CC-Camera-hack-
-@Pip install requests colorama urllib3  
+,,,Pip install requests colorama urllib3  
