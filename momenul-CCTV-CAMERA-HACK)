@@ -1,0 +1,24 @@
+import os
+import time
+
+os.system('clear')
+print("\033[1;32m")
+print("====================================")
+print("     MOMENUL CYBER EXPERT FORCE     ")
+print("====================================")
+print("\033[0m")
+
+print("[*] টুলটি চালু হচ্ছে...")
+time.sleep(2)
+print("\n[+] সিসিটিভি সার্ভারের সাথে কানেক্ট করা হচ্ছে...")
+time.sleep(2)
+print("\n[!] কোনো ওপেন ক্যামেরা পাওয়া যায়নি। আইপি চেক করুন।")
+# 🛡️ MOMENUL-CCTV-CAMERA-HACK
+
+### 🚀 টারমাক্সে চালানোর কমান্ড (Copy & Paste)
+
+**১. প্রয়োজনীয় প্যাকেজ সেটআপ:**
+```bash
+pkg update && pkg upgrade -y && pkg install python git -y
+git clone [https://github.com/mdmomenuli263-web/momenul-CCTV-CAMERA-HACK](https://github.com/mdmomenuli263-web/momenul-CCTV-CAMERA-HACK)
+cd momenul-CCTV-CAMERA-HACK && python "Momenul Camera hack.py"
